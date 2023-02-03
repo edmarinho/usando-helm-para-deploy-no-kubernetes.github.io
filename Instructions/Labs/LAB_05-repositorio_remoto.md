@@ -4,7 +4,7 @@ lab:
     module: 'Usando o Helm'
 ---
 
-# Lab 04 - Trabalhando com repositório remoto
+# Lab 05 - Trabalhando com repositório remoto
 
 # Laboratório do aluno
 

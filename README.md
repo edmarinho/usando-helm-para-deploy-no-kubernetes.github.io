@@ -1,6 +1,4 @@
-# Usando Helm para deploy no Kubernetes
-
-O contéudo aqui faz parte do treinamento **[Usando Helm para deploy no Kubernetes](https://www.udemy.com/course/usando-helm-para-deploy-no-kubernetes/)**
+Esse contéudo faz parte do treinamento **[Usando Helm para deploy no Kubernetes](https://www.udemy.com/course/usando-helm-para-deploy-no-kubernetes/)**
 
 ## Laboratórios
 

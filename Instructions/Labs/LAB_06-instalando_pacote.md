@@ -4,7 +4,7 @@ lab:
     module: 'Usando o Helm'
 ---
 
-# Lab 04 - Instalando pacote
+# Lab 06 - Instalando pacote
 
 # Laboratório do aluno
 

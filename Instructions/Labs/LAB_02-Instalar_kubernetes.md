@@ -28,7 +28,7 @@ Neste laboratório, você irá:
 
 #### Tarefa 1: Instalando pré-requesitos
 
-Nesta tarefa, você irá instalar os pré-requisitos para a instalação do docker.
+Nesta tarefa, você irá instalar os pré-requisitos para a instalação do minikube.
 
 1. Faça login no linux com um usuário que tenha acesso administrativo.
 

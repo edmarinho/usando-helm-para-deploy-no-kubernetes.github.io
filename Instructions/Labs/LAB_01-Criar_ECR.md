@@ -23,9 +23,6 @@ Neste laboratório, você irá:
 
 ## Estimated timing: 10 minutes
 
-## Architecture diagram
-![image](../media/lab01.png)
-
 ## Instruções
 
 #### Tarefa 1: Instalando pré-requesitos
@@ -36,34 +33,34 @@ Nesta tarefa, você irá instalar os pré-requisitos para a instalação do dock
 
 1. Execute os comandos abaixo para atualizar a lista de pacotes disponíveis para instalação.
 
-```
-sudo apt update
-```
+    ```shell
+    sudo apt update
+    ```
 
 1. Execute os comandos abaixo para instalar pré-requesitos que faz com que o apt utilize https.
 
-```
-sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
-```
+    ```shell
+    sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
+    ```
 
 1. Execute os comandos abaixo para adicionar a chave GPG do repositório oficial do Docker.
 
-```
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-```
+    ```shell
+    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+    ```
 
 1. Execute os comandos abaixo para adicionar o repositório do Docker na lista de repositórios do linux.
 
-```
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu
-focal stable"
-```
+    ```shell
+    sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu
+    focal stable"
+    ```
 
 1. Execute os comandos abaixo para atualizar a lista de pacotes disponíveis para instalação.
 
-```
-sudo apt update
-```
+    ```shell
+    sudo apt update
+    ```
 
 #### Tarefa 2: Instalando o docker
 
@@ -71,27 +68,27 @@ Nesta tarefa, você irá instalar o docker na versão community.
 
 1. Execute os comandos abaixo para instalar o docker.
 
-```
-sudo apt install -y docker-ce
-```
+    ```shell
+    sudo apt install -y docker-ce
+    ```
 
 1. Execute os comandos abaixo para verificar o status do serviço do docker.
 
-```
-systemctl status docker
-```
+    ```shell
+    systemctl status docker
+    ```
 
 1. [Opcional] Execute os comandos abaixo para iniciar o serviço do docker.
 
-```
-systemctl start docker
-```
+    ```shell
+    systemctl start docker
+    ```
 
 1. Execute os comandos abaixo para dar permissão, de executar os comando do docker, ao usuário em uso.
 
-```
-sudo usermod -aG docker ${USER}
-```
+    ```shell
+    sudo usermod -aG docker ${USER}
+    ```
 
 #### Revisão
 

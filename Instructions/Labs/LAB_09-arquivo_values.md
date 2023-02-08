@@ -14,7 +14,7 @@ Iremos ver como podemos trabalhar com o arquivo values.yaml.
 
 >**Note:** As tarefas foram executadas no Ubuntu 22.04.
 
-## Objectives
+## Objetivos
 
 Neste laboratório, você irá:
 
@@ -22,7 +22,7 @@ Neste laboratório, você irá:
 + Tarefa 2: Trabalhando com valores de único nível
 + Tarefa 3: Trabalhando com valores de múltiplos níveis
 
-## Estimated timing: 20 minutes
+## Tempo estimado: 20 minutes
 
 ## Instruções
 

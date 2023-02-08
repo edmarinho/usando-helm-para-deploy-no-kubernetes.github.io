@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '12 - Função if/else'
+    title: 'Função if/else'
     module: 'Meu Chart'
 ---
 
-# Lab 12 - Função if/else
+# Lab - Função if/else
 
 # Laboratório do aluno
 

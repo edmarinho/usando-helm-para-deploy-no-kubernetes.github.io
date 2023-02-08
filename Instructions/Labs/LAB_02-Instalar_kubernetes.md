@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '02 - Instalando o Kubernetes (Linux)'
+    title: 'Instalando o Kubernetes (Linux)'
     module: 'Preparando o ambiente'
 ---
 
-# Lab 02 - Instalando o Kubernetes (Linux)
+# Lab - Instalando o Kubernetes (Linux)
 
 # Laboratório do aluno
 

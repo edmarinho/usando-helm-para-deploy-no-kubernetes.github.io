@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '11 - Função default'
+    title: 'Função default'
     module: 'Meu Chart'
 ---
 
-# Lab 11 - Função default
+# Lab - Função default
 
 # Laboratório do aluno
 

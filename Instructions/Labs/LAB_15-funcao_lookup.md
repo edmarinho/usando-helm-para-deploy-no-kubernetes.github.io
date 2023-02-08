@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '15 - Função Lookup'
+    title: 'Função Lookup'
     module: 'Meu Chart'
 ---
 
-# Lab 15 - Função Lookup
+# Lab - Função Lookup
 
 # Laboratório do aluno
 

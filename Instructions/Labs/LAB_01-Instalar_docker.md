@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '01 - Instalando o docker (Linux)'
+    title: 'Instalando o docker (Linux)'
     module: 'Preparando o ambiente'
 ---
 
-# Lab 01 - Instalando o docker (Linux)
+# Lab - Instalando o docker (Linux)
 
 # Laboratório do aluno
 

@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '10 - Pipelines'
+    title: 'Pipelines'
     module: 'Meu Chart'
 ---
 
-# Lab 10 - Pipelines
+# Lab - Pipelines
 
 # Laboratório do aluno
 

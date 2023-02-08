@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '03 - Instalando o Helm (Linux)'
+    title: 'Instalando o Helm (Linux)'
     module: 'Preparando o ambiente'
 ---
 
-# Lab 03 - Instalando o Helm (Linux)
+# Lab - Instalando o Helm (Linux)
 
 # Laboratório do aluno
 

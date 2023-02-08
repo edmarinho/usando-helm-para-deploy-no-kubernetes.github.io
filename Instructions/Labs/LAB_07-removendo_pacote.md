@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '07 - Removendo pacote'
+    title: 'Removendo pacote'
     module: 'Usando o Helm'
 ---
 
-# Lab 07 - Removendo pacote
+# Lab - Removendo pacote
 
 # Laboratório do aluno
 

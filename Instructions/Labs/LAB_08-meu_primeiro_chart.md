@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '08 - Meu primeiro Chart'
+    title: 'Meu primeiro Chart'
     module: 'Meu Chart'
 ---
 
-# Lab 08 - Meu primeiro Chart
+# Lab - Meu primeiro Chart
 
 # Laboratório do aluno
 

@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '14 - Função range'
+    title: 'Função range'
     module: 'Meu Chart'
 ---
 
-# Lab 14 - Função range
+# Lab - Função range
 
 # Laboratório do aluno
 

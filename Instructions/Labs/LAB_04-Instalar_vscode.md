@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '04 - Instalando o VSCode (Linux)'
+    title: 'Instalando o VSCode (Linux)'
     module: 'Preparando o ambiente'
 ---
 
-# Lab 04 - Instalando o VSCode (Linux)
+# Lab - Instalando o VSCode (Linux)
 
 # Laboratório do aluno
 

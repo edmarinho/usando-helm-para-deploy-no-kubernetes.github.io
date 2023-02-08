@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '05 - Repositório remoto'
+    title: 'Repositório remoto'
     module: 'Usando o Helm'
 ---
 
-# Lab 05 - Trabalhando com repositório remoto
+# Lab - Trabalhando com repositório remoto
 
 # Laboratório do aluno
 

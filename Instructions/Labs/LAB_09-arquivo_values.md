@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '09 - Arquivo values.yaml'
+    title: 'Arquivo values.yaml'
     module: 'Meu Chart'
 ---
 
-# Lab 09 - Arquivo values.yaml
+# Lab - Arquivo values.yaml
 
 # Laboratório do aluno
 

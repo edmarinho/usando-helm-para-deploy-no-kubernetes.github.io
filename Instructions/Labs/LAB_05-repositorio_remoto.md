@@ -14,14 +14,14 @@ Trabalhando com repositórios remoto.
 
 >**Note:** As tarefas foram executadas no Ubuntu 22.04.
 
-## Objectives
+## Objetivos
 
 Neste laboratório, você irá:
 
 + Tarefa 1: [Opcional] Iniciando os serviços
 + Tarefa 2: Utilizando o comando `helm repo`
 
-## Estimated timing: 10 minutes
+## Tempo estimado: 10 minutes
 
 ## Instruções
 

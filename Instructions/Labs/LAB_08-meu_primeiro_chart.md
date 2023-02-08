@@ -14,7 +14,7 @@ Iremos criar nosso primeiro chart.
 
 >**Note:** As tarefas foram executadas no Ubuntu 22.04.
 
-## Objectives
+## Objetivos
 
 Neste laboratório, você irá:
 
@@ -22,7 +22,7 @@ Neste laboratório, você irá:
 + Tarefa 2: Criar um chart
 + Tarefa 3: Adicionar um objeto
 
-## Estimated timing: 20 minutes
+## Tempo estimado: 20 minutes
 
 ## Instruções
 

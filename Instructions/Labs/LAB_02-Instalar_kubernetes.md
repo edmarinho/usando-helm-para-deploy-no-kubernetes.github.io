@@ -14,7 +14,7 @@ Instalação do Kubernetes no linux para realizar demais atividades do curso.
 
 >**Note:** As tarefas foram executadas no Ubuntu 22.04.
 
-## Objectives
+## Objetivos
 
 Neste laboratório, você irá:
 
@@ -22,7 +22,7 @@ Neste laboratório, você irá:
 + Tarefa 2: Instalando o minikube
 + Tarefa 3: Instalando o kubectl
 
-## Estimated timing: 10 minutes
+## Tempo estimado: 10 minutes
 
 ## Instruções
 

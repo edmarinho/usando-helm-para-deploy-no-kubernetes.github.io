@@ -14,14 +14,14 @@ Instalação do VSCode no linux para realizar demais atividades do curso.
 
 >**Note:** As tarefas foram executadas no Ubuntu 22.04.
 
-## Objectives
+## Objetivos
 
 Neste laboratório, você irá:
 
 + Tarefa 1: Instalando pré-requesitos
 + Tarefa 2: Instalando o VSCode
 
-## Estimated timing: 10 minutes
+## Tempo estimado: 10 minutes
 
 ## Instruções
 

@@ -19,8 +19,8 @@ Iremos ver como podemos trabalhar com o arquivo values.yaml.
 Neste laboratório, você irá:
 
 + Tarefa 1: [Opcional] Iniciando os serviços
-+ Tarefa 2: Trabalhando com valores de único nível
-+ Tarefa 3: Trabalhando com valores de múltiplos níveis
++ Tarefa 2: Trabalhar com valores de único nível
++ Tarefa 3: Trabalhar com valores de múltiplos níveis
 
 ## Tempo estimado: 20 minutes
 

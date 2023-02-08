@@ -46,7 +46,7 @@ Nesta tarefa, você irá utilizar comandos para iniciar o docker e o minikube.
 
 #### Tarefa 2: Criar um chart
 
-Nesta tarefa, você criar o seu primeiro chart.
+Nesta tarefa, você irá criar o seu primeiro chart.
 
 1. Execute os comandos abaixo para que o helm crie um chart.
 
@@ -96,7 +96,7 @@ chart
     ```
 #### Tarefa 3: Adicionar um objeto
 
-Nesta tarefa, você adicionar um objeto no chart e instalar novamente.
+Nesta tarefa, você irá adicionar um objeto no chart e instalar novamente.
 
 1. Edite o arquivo configmap.yaml adicionando o objeto {{ .Release.Name }} conforme indicado abaixo.
 
